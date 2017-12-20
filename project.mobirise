@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio NL",
-    "currentPage": "biography.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 50,
     "versionPublish": "4.5.2",
@@ -37,7 +37,7 @@
         "#fafafa"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/home-icon-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/square.jpeg",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110379126-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110379126-1');\r\n</script>\r\n",
     "cookiesAlert": "We gebruiken cookies om er zeker van te zijn dat je onze website zo goed mogelijk beleeft. Als je deze website blijft gebruiken gaan we ervan uit dat je dat goed vindt. <a href='privacy.html'>cookie policy</a>.",
